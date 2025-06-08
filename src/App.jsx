@@ -14,10 +14,10 @@ function App() {
       <Navbar />
       <Home immage={animatedpicture} />
       <div className="flex justify-center gap-6 p-6">
-        <a href="https://github.com/life188">
+        <a href="https://sunny-creponne-f8f4c5.netlify.app/">
           <Project
-            title="Service Site"
-            description="This is a github link to the service site that I am building that is coming soon"
+            title="Apex Auto Care"
+            description="A detailing service site"
             imageUrl={serviceSiteImage}
           />
         </a>
