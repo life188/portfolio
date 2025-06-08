@@ -17,7 +17,7 @@ function App() {
         <a href="https://sunny-creponne-f8f4c5.netlify.app/">
           <Project
             title="Apex Auto Care"
-            description="A detailing service site"
+            description="This is a github link to the service site that I am building that is coming soon"
             imageUrl={serviceSiteImage}
           />
         </a>
