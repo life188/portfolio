@@ -21,7 +21,7 @@ function App() {
             imageUrl={serviceSiteImage}
           />
         </a>
-        <a href="https://legendary-sunflower-3c1273.netlify.app/">
+        <a href="https://heartfelt-raindrop-341f85.netlify.app/">
           <Project
             title="WordHop"
             description="This is a github link to the game site that I am building that is coming soon"
