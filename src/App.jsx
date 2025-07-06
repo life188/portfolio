@@ -28,7 +28,7 @@ function App() {
             imageUrl={GameAnimated}
           />
         </a>
-        <a href="https://github.com/life188">
+        <a href="https://mellifluous-puppy-33476f.netlify.app/">
           <Project
             title="E-Commerce site"
             description="This is a github link to the E-Commerce site that I am building that is coming soon"
