@@ -35,7 +35,7 @@ function App() {
             imageUrl={StoreAnimated}
           />
         </a>
-        <a href="https://github.com/life188">
+        <a href="https://vermillion-sprinkles-41d126.netlify.app/">
           <Project
             title="Analytics site + final portfolio"
             description="This is a github link to the sports analytics site that I am building that is coming soon"
